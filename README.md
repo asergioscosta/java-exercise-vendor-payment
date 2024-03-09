@@ -1,4 +1,4 @@
-# Java Exercise: Vendor and Payments
+# Java Exercise Vendor and Payments
 
 ### Index
 
@@ -30,10 +30,10 @@ Creation of classes for vendor and payments management, with methods for calcula
 
 ## Techniques and Technologies Used
 
-- **Programming Language:** Java
-- **Development Environment:** IntelliJ IDEA
-- **Programming Paradigm:** Object-Oriented Programming
-- **Version Control Tools:** Git
+- **Programming Language:** ``Java``
+- **Development Environment:** ``IntelliJ IDEA``
+- **Programming Paradigm:** ``Object-Oriented Programming``
+- **Version Control Tools:** ``Git``
 
 ## Accessing the Project
 
